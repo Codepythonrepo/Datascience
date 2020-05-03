@@ -1,0 +1,30 @@
+Data Science Excercise - 1
+--------------------------
+
+1) Define Big Data
+
+Big data refers to a massive voume of both structured and unstructured data, 
+and is usually too large to process using traditional databaseand software techniques. 
+
+
+
+2) Define Hadoop
+
+Hadoop is an opensource software framework for storing data and running applications on clusters of commodity hardware.
+
+
+
+3) Define Data Science
+
+Data science is an inter-disciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge
+and insights from many structural and unstructured data.
+
+
+4) Data Mining
+
+Data mining is the process of discovering patterns in large data sets involving methods at the intersection of machine learning, statistics,
+and database systems.
+
+
+
+
